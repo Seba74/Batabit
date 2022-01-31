@@ -1,4 +1,4 @@
-@import url(variables.css);
+@import url('variables.css');
 
 .header {
     position: relative;
@@ -257,7 +257,7 @@
 }
 
 .imagen--container {
-    background-image: url(assets/img/bitcoinbaby.png);
+    background-image: url('assets/img/bitcoinbaby.png');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;

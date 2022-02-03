@@ -1,5 +1,3 @@
-@import url('/css/variables.css');
-
 .header {
     position: relative;
     display: flex;
@@ -259,7 +257,7 @@
 }
 
 .imagen--container {
-    background-image: url(/assets/img/bitcoinbaby.png);
+    background-image: url("../assets/img/bitcoinbaby2x.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
